@@ -1,0 +1,6 @@
+17:41:57,940 INFO  [com.ajkaandrej.jboss.report.impl.BirtReportService] Start the report service - start.
+17:41:57,948 INFO  [com.ajkaandrej.jboss.report.impl.BirtReportService] Birt runtime directory: /D:/jboss-6.0.0.Final/server/default//birt/
+17:41:57,948 INFO  [com.ajkaandrej.jboss.report.impl.BirtReportService] Birt reports directory: /D:/jboss-6.0.0.Final/server/default//reports/
+17:41:57,949 INFO  [com.ajkaandrej.jboss.report.impl.BirtReportService] Create BIRT engine - start.
+17:42:00,140 INFO  [com.ajkaandrej.jboss.report.impl.BirtReportService] Create BIRT engine - end.
+17:42:00,141 INFO  [com.ajkaandrej.jboss.report.impl.BirtReportService] Start the report service - start.

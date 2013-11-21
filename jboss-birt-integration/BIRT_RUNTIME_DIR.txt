@@ -1,0 +1,8 @@
+BIRT_RUNTIME_DIR
+    +---about_files
+    +---ReportEngine
+    ¦   +---configuration --> default/birt/configuration
+    ¦   +---lib           --> default/lib/
+    ¦   +---plugins       --> default/birt/plugins
+    ¦   +---samples
+    +---WebViewerExample

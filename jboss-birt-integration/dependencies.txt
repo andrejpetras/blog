@@ -1,0 +1,10 @@
+[INFO] --- maven-dependency-plugin:2.1:tree (default-cli) @ birtservice ---
+[INFO] com.ajkaandrej.jboss.birt:birtservice:ejb:1.0-SNAPSHOT
+[INFO] +- org.slf4j:slf4j-api:jar:1.6.1:provided
+[INFO] +- javax:javaee-api:jar:6.0:provided
+[INFO] +- org.jboss.ejb3:jboss-ejb3-ext-api:jar:1.1.1:provided
+[INFO] +- org.jboss.jbossas:jboss-as-system-jmx:jar:client:6.0.0.Final:provided
+[INFO] +- org.eclipse.birt:coreapi:jar:2.6.2:provided
+[INFO] +- org.eclipse.birt:engineapi:jar:2.6.2:provided
+[INFO] +- org.eclipse.birt:modelapi:jar:2.6.2:provided
+[INFO] \- com.ibm.icu:icu4j:jar:4.0.1:provided
